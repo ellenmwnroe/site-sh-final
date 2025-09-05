@@ -137,7 +137,7 @@ src/
 
 ## 👥 Equipe
 
-Desenvolvido com ❤️ pelos membros da UNDB Software House
+Desenvolvido pelos membros da UNDB Software House
 
 
 ---
